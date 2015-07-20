@@ -1,0 +1,95 @@
+E:\Application Development\Course\Course\bin\Course.dll
+E:\Application Development\Course\Course\bin\Course.pdb
+E:\Application Development\Course\Course\bin\Antlr3.Runtime.dll
+E:\Application Development\Course\Course\bin\AspNet.ScriptManager.jQuery.dll
+E:\Application Development\Course\Course\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+E:\Application Development\Course\Course\bin\DotNetOpenAuth.AspNet.dll
+E:\Application Development\Course\Course\bin\DotNetOpenAuth.Core.dll
+E:\Application Development\Course\Course\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\Application Development\Course\Course\bin\DotNetOpenAuth.OAuth.dll
+E:\Application Development\Course\Course\bin\DotNetOpenAuth.OpenId.dll
+E:\Application Development\Course\Course\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\Application Development\Course\Course\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Application Development\Course\Course\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+E:\Application Development\Course\Course\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Application Development\Course\Course\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Application Development\Course\Course\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Application Development\Course\Course\bin\Microsoft.Web.Infrastructure.dll
+E:\Application Development\Course\Course\bin\System.Web.Optimization.dll
+E:\Application Development\Course\Course\bin\System.Web.Providers.dll
+E:\Application Development\Course\Course\bin\WebGrease.dll
+E:\Application Development\Course\Course\bin\DotNetOpenAuth.Core.xml
+E:\Application Development\Course\Course\bin\DotNetOpenAuth.OAuth.xml
+E:\Application Development\Course\Course\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\Application Development\Course\Course\bin\DotNetOpenAuth.OpenId.xml
+E:\Application Development\Course\Course\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\Application Development\Course\Course\bin\DotNetOpenAuth.AspNet.xml
+E:\Application Development\Course\Course\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+E:\Application Development\Course\Course\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Application Development\Course\Course\obj\Debug\Course.dll
+E:\Application Development\Course\Course\obj\Debug\Course.pdb
+E:\Application Development\Course\Course\obj\Debug\Course.csprojResolveAssemblyReference.cache
+F:\Application Development\Course\Course\bin\Course.dll.config
+F:\Application Development\Course\Course\bin\Course.dll
+F:\Application Development\Course\Course\bin\Course.pdb
+F:\Application Development\Course\Course\bin\Antlr3.Runtime.dll
+F:\Application Development\Course\Course\bin\AspNet.ScriptManager.jQuery.dll
+F:\Application Development\Course\Course\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+F:\Application Development\Course\Course\bin\DotNetOpenAuth.AspNet.dll
+F:\Application Development\Course\Course\bin\DotNetOpenAuth.Core.dll
+F:\Application Development\Course\Course\bin\DotNetOpenAuth.OAuth.Consumer.dll
+F:\Application Development\Course\Course\bin\DotNetOpenAuth.OAuth.dll
+F:\Application Development\Course\Course\bin\DotNetOpenAuth.OpenId.dll
+F:\Application Development\Course\Course\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+F:\Application Development\Course\Course\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\Application Development\Course\Course\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+F:\Application Development\Course\Course\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\Application Development\Course\Course\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\Application Development\Course\Course\bin\Microsoft.ScriptManager.WebForms.dll
+F:\Application Development\Course\Course\bin\Microsoft.Web.Infrastructure.dll
+F:\Application Development\Course\Course\bin\System.Web.Optimization.dll
+F:\Application Development\Course\Course\bin\System.Web.Providers.dll
+F:\Application Development\Course\Course\bin\WebGrease.dll
+F:\Application Development\Course\Course\bin\DotNetOpenAuth.Core.xml
+F:\Application Development\Course\Course\bin\DotNetOpenAuth.OAuth.xml
+F:\Application Development\Course\Course\bin\DotNetOpenAuth.OAuth.Consumer.xml
+F:\Application Development\Course\Course\bin\DotNetOpenAuth.OpenId.xml
+F:\Application Development\Course\Course\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+F:\Application Development\Course\Course\bin\DotNetOpenAuth.AspNet.xml
+F:\Application Development\Course\Course\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+F:\Application Development\Course\Course\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\Application Development\Course\Course\obj\Debug\Course.dll
+F:\Application Development\Course\Course\obj\Debug\Course.pdb
+F:\Application Development\Course\Course\obj\Debug\Course.csprojResolveAssemblyReference.cache
+F:\ALL PREVIOUS WORKS\Application_Webdev\Course\Course\bin\Course.dll.config
+F:\ALL PREVIOUS WORKS\Application_Webdev\Course\Course\bin\Course.dll
+F:\ALL PREVIOUS WORKS\Application_Webdev\Course\Course\bin\Course.pdb
+F:\ALL PREVIOUS WORKS\Application_Webdev\Course\Course\bin\Antlr3.Runtime.dll
+F:\ALL PREVIOUS WORKS\Application_Webdev\Course\Course\bin\AspNet.ScriptManager.jQuery.dll
+F:\ALL PREVIOUS WORKS\Application_Webdev\Course\Course\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+F:\ALL PREVIOUS WORKS\Application_Webdev\Course\Course\bin\DotNetOpenAuth.AspNet.dll
+F:\ALL PREVIOUS WORKS\Application_Webdev\Course\Course\bin\DotNetOpenAuth.Core.dll
+F:\ALL PREVIOUS WORKS\Application_Webdev\Course\Course\bin\DotNetOpenAuth.OAuth.Consumer.dll
+F:\ALL PREVIOUS WORKS\Application_Webdev\Course\Course\bin\DotNetOpenAuth.OAuth.dll
+F:\ALL PREVIOUS WORKS\Application_Webdev\Course\Course\bin\DotNetOpenAuth.OpenId.dll
+F:\ALL PREVIOUS WORKS\Application_Webdev\Course\Course\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+F:\ALL PREVIOUS WORKS\Application_Webdev\Course\Course\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\ALL PREVIOUS WORKS\Application_Webdev\Course\Course\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+F:\ALL PREVIOUS WORKS\Application_Webdev\Course\Course\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\ALL PREVIOUS WORKS\Application_Webdev\Course\Course\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\ALL PREVIOUS WORKS\Application_Webdev\Course\Course\bin\Microsoft.ScriptManager.WebForms.dll
+F:\ALL PREVIOUS WORKS\Application_Webdev\Course\Course\bin\Microsoft.Web.Infrastructure.dll
+F:\ALL PREVIOUS WORKS\Application_Webdev\Course\Course\bin\System.Web.Optimization.dll
+F:\ALL PREVIOUS WORKS\Application_Webdev\Course\Course\bin\System.Web.Providers.dll
+F:\ALL PREVIOUS WORKS\Application_Webdev\Course\Course\bin\WebGrease.dll
+F:\ALL PREVIOUS WORKS\Application_Webdev\Course\Course\bin\DotNetOpenAuth.Core.xml
+F:\ALL PREVIOUS WORKS\Application_Webdev\Course\Course\bin\DotNetOpenAuth.OAuth.xml
+F:\ALL PREVIOUS WORKS\Application_Webdev\Course\Course\bin\DotNetOpenAuth.OAuth.Consumer.xml
+F:\ALL PREVIOUS WORKS\Application_Webdev\Course\Course\bin\DotNetOpenAuth.OpenId.xml
+F:\ALL PREVIOUS WORKS\Application_Webdev\Course\Course\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+F:\ALL PREVIOUS WORKS\Application_Webdev\Course\Course\bin\DotNetOpenAuth.AspNet.xml
+F:\ALL PREVIOUS WORKS\Application_Webdev\Course\Course\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+F:\ALL PREVIOUS WORKS\Application_Webdev\Course\Course\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\ALL PREVIOUS WORKS\Application_Webdev\Course\Course\obj\Debug\Course.csprojResolveAssemblyReference.cache
+F:\ALL PREVIOUS WORKS\Application_Webdev\Course\Course\obj\Debug\Course.dll
+F:\ALL PREVIOUS WORKS\Application_Webdev\Course\Course\obj\Debug\Course.pdb
